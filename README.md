@@ -13,18 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🚀 I use daily:
-      ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-      ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-      ![Vue](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-      ![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
-      ![Node](https://img.shields.io/badge/node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-      ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node](https://img.shields.io/badge/node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 <div align="center">  
-<span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=noexpect9&show_icons=true&theme=tokyonight" />
-  <span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noexpect9&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
 </div>
 
