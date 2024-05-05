@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <div align="center">  
+- <img height="170px" src="https://github-readme-stats.vercel.app/api?username=noexpect9&show_icons=true&theme=tokyonight" />
+- </div>
 -->
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
@@ -20,7 +23,5 @@ Here are some ideas to get you started:
 ![Node](https://img.shields.io/badge/node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-<div align="center">  
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=noexpect9&show_icons=true&theme=tokyonight" />
-</div>
+
 
